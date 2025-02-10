@@ -1,7 +1,7 @@
 # Machine-Learning-Model-Big-Data
 
 ## *Objetivo:* 
-El objetivo es desarrollar un modelo que aprenda efectivamente de los datos y pueda realizar predicciones o clasificaciones precisas, utilizando herramientas como pandas para el manejo de datos y scikit-learn para el modelado.
+Desarrollar un modelo que aprenda efectivamente de los datos y pueda realizar predicciones o clasificaciones precisas, utilizando herramientas como pandas para el manejo de datos y scikit-learn para el modelado.
 
 ## *Desarrollo:*
 Este trabajo de Machine Learning se centra en el desarrollo de un proyecto completo de análisis de datos, desde la exploración inicial hasta la evaluación de un modelo predictivo. El proceso se divide en tres fases principales:
