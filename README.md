@@ -7,8 +7,8 @@ El objetivo es desarrollar un modelo que aprenda efectivamente de los datos y pu
 Este trabajo de Machine Learning se centra en el desarrollo de un proyecto completo de análisis de datos, desde la exploración inicial hasta la evaluación de un modelo predictivo. El proceso se divide en tres fases principales:
 
 ### *Análisis Exploratorio:*
-Identificación de preguntas de investigación
-Formulación de hipótesis
+    - Identificación de preguntas de investigación
+    . Formulación de hipótesis
 Análisis inicial del conjunto de datos
 
 ### *Preprocesamiento de Datos:*
