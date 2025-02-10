@@ -41,7 +41,7 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
 | Institutional email | david.gutierrec@konradlorenz.edu.co |
   
 
-  # Created By:
+## Created By:
     https://github.com/dg2c4
 
 ### *Date: 10/02/2025 - 01/03/2025*
