@@ -9,18 +9,18 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
 ### *Análisis Exploratorio:*
     - Identificación de preguntas de investigación
     . Formulación de hipótesis
-Análisis inicial del conjunto de datos
+    - Análisis inicial del conjunto de datos
 
 ### *Preprocesamiento de Datos:*
-Limpieza de datos
-Transformación de variables
-Reducción de dimensionalidad
-Discretización cuando sea necesaria
+    - Limpieza de datos
+    - Transformación de variables
+    - Reducción de dimensionalidad
+    - Discretización cuando sea necesaria
 
 ### *Modelado y Evaluación:*
-Implementación de modelo de regresión lineal o logística
-Selección y cálculo de métricas de evaluación
-Análisis del rendimiento del modelo
+    - Implementación de modelo de regresión lineal o logística
+    - Selección y cálculo de métricas de evaluación
+    - Análisis del rendimiento del modelo
 
 
 ## *Entregables:*
@@ -33,13 +33,13 @@ Análisis del rendimiento del modelo
 
 
 # *Systems engineering:*
-### Student: David Gutierrez Chaves. 
-### Code: 506222728.
-### Subject: Desarrrollo de nuevas tecnologias.
-### Institution: Fundación Universitaria Konrad Lorenz.
-
-### Institutional email: 
-    david.gutierrec@konradlorenz.edu.co  
+| Student: | David Gutierrez Chaves |
+|------|--------|
+| Code: | 506222728 |
+| Subject: | Big Data Electiva-I |
+| Institution: | Fundación Universitaria Konrad Lorenz |
+| Institutional email | david.gutierrec@konradlorenz.edu.co |
+  
 
   # Created By:
     https://github.com/dg2c4
