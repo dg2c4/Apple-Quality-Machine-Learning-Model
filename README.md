@@ -23,7 +23,7 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
     - Análisis del rendimiento del modelo
 
 
-### *Ejercicio:* 
+## *Ejercicio:* 
 A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.  
 
 B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. Para esto, puede usar pandas. 
