@@ -22,6 +22,9 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
     - Selección y cálculo de métricas de evaluación
     - Análisis del rendimiento del modelo
 
+## *Conjunto de datos:* 
+### Contiene información sobre la calidad de las manzanas.
+    https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality 
 
 ## *Ejercicio:* 
 A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.  
