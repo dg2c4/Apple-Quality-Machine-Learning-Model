@@ -44,7 +44,7 @@ C. Luego de hacer el preprocesamiento y tener el conjunto de datos final, debe c
 
 
 # *Systems engineering:*
-| Student: | David Gutierrez Chaves |
+| User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
 | Subject: | Big Data Electiva-I |
