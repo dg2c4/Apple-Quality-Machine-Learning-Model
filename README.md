@@ -1,4 +1,7 @@
 # *Apple Quality Machine Learning Model*
+<p align="center">
+  <img width="800" height="400" src="https://github.com/dg2c4/Air-Quality-Data/blob/main/Assets/Apple-Quality-Machine-Learning-Model" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
+</p>
 
 ## *Objetivo:* 
 Desarrollar un modelo que aprenda efectivamente de los datos y pueda realizar predicciones o clasificaciones precisas, utilizando herramientas como pandas para el manejo de datos y scikit-learn para el modelado.
