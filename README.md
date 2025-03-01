@@ -1,6 +1,6 @@
 # *Apple Quality Machine Learning Model*
 <p align="center">
-  <img width="800" height="400" src="https://github.com/dg2c4/Air-Quality-Data/blob/main/Assets/Apple-Quality-Machine-Learning-Model" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
+  <img width="800" height="400" src="https://github.com/dg2c4/Apple-Quality-Machine-Learning-Model/blob/main/Assets/Apple-Quality-Machine-Learning-Model.webp" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
 </p>
 
 ## *Objetivo:* 
