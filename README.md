@@ -44,6 +44,7 @@ C. Luego de hacer el preprocesamiento y tener el conjunto de datos final, debe c
 | Preprocesamiento de los datos | 15 pts |
 | Entrenamiento del Modelo de Machine Learning | 15 pts |
 | Evaluación del modelo | 10 pts |
+| Total | 50 pts |
 
 
 # *Systems engineering:*
